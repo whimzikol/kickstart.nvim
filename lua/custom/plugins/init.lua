@@ -8,7 +8,7 @@ return {
   cmd = { "Stdheader" },
   keys = { "<F2>" },
   opts = {
-    default_map = true, -- Default mapping <F1> in normal mode.
+    default_map = false, -- Default mapping <F1> in normal mode.
     auto_update = true, -- Update header when saving.
     user = "username", -- Your user.
     mail = "username@student.42berlin.de", -- Your mail.
